@@ -6,12 +6,12 @@ To analyze Swiggy sales data and build an interactive dashboard that provides in
 
 ## Questions (KPIs)
 
-- What is the total number of orders (197.43K), and how does it impact overall revenue?
+- What is the total number of orders , and how does it impact overall revenue?
 - Which month recorded the highest and lowest sales?
 - Which quarter performed best in terms of sales, ratings, and total orders?
 - What are the top 5 cities driving maximum sales?
 - Which category generates more sales and dominates the market share?
-- Is the Average Order Value (₹268.51) stable across months?
+- Is the Average Order Value stable across months?
 - Are weekly sales trends stable or highly fluctuating?
 - Do higher order volumes always result in higher revenue?
 - Is revenue concentrated in specific regions?
@@ -28,4 +28,17 @@ To analyze Swiggy sales data and build an interactive dashboard that provides in
 - Analyzed trends across monthly, weekly, category-wise, and state-wise performance.
 
 - Built an interactive dashboard to visualize KPIs and generate actionable business insights.
+
+## Dashboard 
+<img width="787" height="448" alt="image" src="https://github.com/user-attachments/assets/7a00d621-6bcb-4a62-8672-17d6571650ed" />
+
+## Project Key Insights
+
+- Total Sales reached ₹53.01M across all (197K+) orders.
+- Average customer rating is 4.34, indicating high customer satisfaction.
+- Veg and Non-Veg sales distribution shows strong demand across both categories.
+- A major portion of total sales is generated from top metro cities.
+- Weekend days record higher sales compared to weekdays.
+
+
 
