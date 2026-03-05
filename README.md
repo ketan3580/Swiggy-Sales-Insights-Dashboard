@@ -4,6 +4,16 @@ To analyze Swiggy sales data and build an interactive dashboard that provides in
 
 ## Dataset used : <a href = "https://github.com/ketan3580/Swiggy-Sales-Insights-Dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">View Dataset</a>
 
+### Tools & Techniques Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Dashboard Design
+- Conditional Formatting
+- Map Visualization
+
 ## Questions (KPIs)
 
 - What is the total number of orders , and how does it impact overall revenue?
@@ -40,5 +50,14 @@ To analyze Swiggy sales data and build an interactive dashboard that provides in
 - A major portion of total sales is generated from top metro cities.
 - Weekend days record higher sales compared to weekdays.
 
+### Purpose Of the Project 
+- Data analysis using Excel
 
+- Building interactive dashboards
 
+- Transforming raw sales data into actionable insights
+
+- Visual storytelling using charts and KPIs
+
+## Final Conclusion
+The dashboard highlights key sales patterns, customer preferences, and regional performance across the platform. These insights support data-driven decision-making to optimize sales strategy and improve overall business performance
