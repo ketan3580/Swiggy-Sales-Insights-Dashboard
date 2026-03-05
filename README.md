@@ -50,7 +50,7 @@ To analyze Swiggy sales data and build an interactive dashboard that provides in
 - A major portion of total sales is generated from top metro cities.
 - Weekend days record higher sales compared to weekdays.
 
-### Purpose Of the Project 
+## Purpose Of the Project 
 - Data analysis using Excel
 
 - Building interactive dashboards
