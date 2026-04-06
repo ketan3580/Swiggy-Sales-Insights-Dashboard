@@ -1,4 +1,4 @@
-# Swiggy-Order-Analytics-Dashboard (Using Excel Analytical Tool)
+# Swiggy Order & Revenue Analytics 
 ## Project Objective
 To analyze Swiggy sales data and build an interactive dashboard that provides insights into revenue trends, customer behavior, and business performance.
 
